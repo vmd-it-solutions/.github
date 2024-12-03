@@ -1,5 +1,5 @@
-## Hi Everyone we are VMD-IT-SOLUTIONS 
+## VMD-IT-SOLUTIONS 
 
-Specializing in providing DevOps services and IT infrastructure solutions for companies of all sizes. Our mission is to optimize, automate, and maintain technology environments, allowing our clients to focus on their core operations while ensuring their IT infrastructures are scalable, secure, and efficient.
+Especializada em fornecer serviços de DevOps e soluções de infraestrutura de TI para empresas de todos os tamanhos. Nossa missão é otimizar, automatizar e manter ambientes de tecnologia, permitindo que nossos clientes se concentrem em suas operações principais enquanto garantimos que suas infraestruturas de TI sejam escaláveis, seguras e eficientes.
 
-https://vmd-it-solutions.com.br
+[https://vmd-it-solutions.com.br](https://vmd-it-solutions.com.br/)
